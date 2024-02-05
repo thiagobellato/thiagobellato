@@ -44,7 +44,7 @@ style="display: inline_block"
   
 <a href="https://www.linkedin.com/in/thiago-frederico-bellato-32814727a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tfbellato@hotmail.com)](https://outlook.live.com/mail/0/)
+[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tfbellato@hotmail.com)](mailto:tfbellato@hotmail.com)
 </div>
   
  
