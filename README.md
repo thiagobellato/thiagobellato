@@ -35,8 +35,7 @@
 
 ## Redes
 <div 
-style="display: inline_block"
->
+style="display: inline_block">
 
 <br>
 
