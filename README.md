@@ -1,4 +1,4 @@
-### Olá Pessoal👋!!! Meu nome é Thiago Bellato, e estou estudando para ser um DEV Back-End...
+## Olá Pessoal👋!!! Meu nome é Thiago Bellato, e estou estudando para ser um DEV Back-End...
 
 - 🌱 Estudando: JavaScript e Java
 
@@ -12,15 +12,12 @@ style="display: inline_block">
   </a>
 </div>
 
-
-
 ## Meus Projetos
 
 [![Projeto API](https://github-readme-stats.vercel.app/api/pin/?username=thiagobellato&repo=trabalho-api-grupo6&show_icons=true&layout=compact&langs_count=8&card_width=320&theme=merko)](https://github.com/thiagobellato/trabalho-api-grupo6)
 
-
-
 ## Tecnologias que utilizo
+
 <div 
 style="display: inline_block">
   <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -36,16 +33,10 @@ style="display: inline_block">
 </div>
 
 ## Redes
+
 <div 
 style="display: inline_block">
-
-<br>
-
-<a href="https://instagram.com/_ph0nix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/thiago-frederico-bellato-32814727a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:tfbellato@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
+  <a href="https://instagram.com/_ph0nix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiago-frederico-bellato-32814727a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:tfbellato@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-  
- 
-
