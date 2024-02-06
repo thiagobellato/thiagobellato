@@ -40,3 +40,5 @@ style="display: inline_block">
   <a href="https://www.linkedin.com/in/thiago-frederico-bellato-32814727a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:tfbellato@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+
+<img src="https://i.picasion.com/pic92/c4a6133a421ea85bd7fbe68b2d0c4cbb.gif" width="200" height="200" alt="meu gif" align="right"/>
