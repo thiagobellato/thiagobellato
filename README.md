@@ -17,7 +17,7 @@
 
 [![Projeto API](https://github-readme-stats.vercel.app/api/pin/?username=thiagobellato&repo=trabalho-api-grupo6&show_icons=true&layout=compact&langs_count=8&card_width=320&theme=merko)](https://github.com/thiagobellato/trabalho-api-grupo6)
 
-<br>
+
 
 ## Tecnologias que utilizo
 <div style="display: inline_block"><br>
