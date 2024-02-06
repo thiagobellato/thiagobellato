@@ -43,7 +43,7 @@ style="display: inline_block">
 
 <div 
 style="border-radius: 50">
-<img src="https://cdn.discordapp.com/attachments/1169699784043536454/1204474720053891112/picasion.com_c4a6133a421ea85bd7fbe68b2d0c4cbb.gif?ex=65d4dd7f&is=65c2687f&hm=b0df6cab7453f2ed8e46fa7bdbad2031137875e8a735be59a40ed344ef730afb" width="200" height="200" alt="meu gif" align="right"/>
+<img src="https://cdn.discordapp.com/attachments/1169699784043536454/1204474720053891112/picasion.com_c4a6133a421ea85bd7fbe68b2d0c4cbb.gif?ex=65d4dd7f&is=65c2687f&hm=b0df6cab7453f2ed8e46fa7bdbad2031137875e8a735be59a40ed344ef730afb" width="110" height="110" alt="meu gif" align="right"/>
 </div>
 
 <picture>
