@@ -42,7 +42,7 @@ style="display: inline_block"
 
 <a href="https://instagram.com/_ph0nix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/thiago-frederico-bellato-32814727a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tfbellato@hotmail.com)](https://outlook.live.com/mailto:tfbellato@hotmail.com)
+[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:tfbellato@hotmail.com)](https://mailto:tfbellato@outlook.live.com)
 </div>
   
  
