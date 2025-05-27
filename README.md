@@ -1,6 +1,6 @@
 ## Olá Pessoal👋!!! Meu nome é Thiago Bellato, e estou estudando para ser um DEV Back-End...
 
-- 🌱 Estudando: JavaScript e Java
+- 🌱 Estudando: Java com Spring
 
 <div 
 style="display: inline_block">
