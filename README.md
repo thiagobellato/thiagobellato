@@ -21,6 +21,9 @@ Meu nome é Thiago Bellato, e estou estudando para ser um DEV Back-End...
   <a href="https://github.com/thiagobellato/futstats-manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagobellato&repo=futstats-manager&show_icons=true&layout=compact&langs_count=8&card_width=480&theme=merko"/>
   </a>
+  <a href="https://github.com/thiagobellato/futstats-manager-front">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagobellato&repo=futstats-manager-front&show_icons=true&layout=compact&langs_count=8&card_width=480&theme=merko"/>
+  </a>
 </div>
 
 ## Tecnologias que utilizo
