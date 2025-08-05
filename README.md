@@ -1,7 +1,7 @@
 ## Olá Pessoal 👋!!!  
 Meu nome é Thiago Bellato, e estou estudando para ser um DEV Back-End...
 
-- 🌱 Estudando: Java com Spring
+- 🌱 Estudando: Java com Spring e Python com Django
 
 <div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
