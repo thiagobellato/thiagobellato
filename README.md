@@ -64,8 +64,8 @@ Meu nome é Thiago Bellato, e estou estudando para ser um DEV Back-End...
   </a>
 </div>
 
-<div style="border-radius: 50">
-  <img src="https://cdn.discordapp.com/attachments/1169699784043536454/1204474720053891112/picasion.com_c4a6133a421ea85bd7fbe68b2d0c4cbb.gif?ex=65d4dd7f&is=65c2687f&hm=b0df6cab7453f2ed8e46fa7bdbad2031137875e8a735be59a40ed344ef730afb" width="110" height="110" alt="meu gif" align="right"/>
+<div align="right">
+    <img src="https://pt.vecteezy.com/arte-vetorial/23674735-fenix-vetor-logotipo" width="110" height="110" alt="meu gif" style="border-radius: 50%;">
 </div>
 
 <picture>
