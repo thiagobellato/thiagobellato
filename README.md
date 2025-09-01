@@ -53,7 +53,7 @@ Meu nome é Thiago Bellato, e estou estudando para ser um DEV Back-End...
 ## Redes
 
 <div style="display: inline_block">
-  <a href="https://instagram.com/_ph0nix" target="_blank">
+  <a href="https://instagram.com/_bellato14" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> 
   <a href="https://www.linkedin.com/in/thiago-frederico-bellato-32814727a" target="_blank">
