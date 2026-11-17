@@ -37,26 +37,36 @@ Tenho interesse constante em aprimorar meus conhecimentos em arquitetura de soft
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
+      <h3>⚽ FutStats Manager</h3>
+      <p>API back-end do sistema de gestão e estatísticas de futebol.</p>
+      <img src="https://img.shields.io/github/languages/top/thiagobellato/futstats-manager?style=flat-square&logo=github&label=Linguagem" alt="Linguagem principal"/>
+      <img src="https://img.shields.io/github/last-commit/thiagobellato/futstats-manager?style=flat-square&label=%C3%9Altimo%20commit" alt="Último commit"/>
+      <br/><br/>
       <a href="https://github.com/thiagobellato/futstats-manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagobellato&repo=futstats-manager&theme=github_dark&hide_border=true" alt="FutStats Manager"/>
+        <img src="https://img.shields.io/badge/VER%20PROJETO-00AA66?style=for-the-badge&logo=github&logoColor=white" alt="Ver FutStats Manager"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
+      <h3>💻 FutStats Manager Front</h3>
+      <p>Interface front-end do FutStats Manager.</p>
+      <img src="https://img.shields.io/github/languages/top/thiagobellato/futstats-manager-front?style=flat-square&logo=github&label=Linguagem" alt="Linguagem principal"/>
+      <img src="https://img.shields.io/github/last-commit/thiagobellato/futstats-manager-front?style=flat-square&label=%C3%9Altimo%20commit" alt="Último commit"/>
+      <br/><br/>
       <a href="https://github.com/thiagobellato/futstats-manager-front">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagobellato&repo=futstats-manager-front&theme=github_dark&hide_border=true" alt="FutStats Manager Front"/>
+        <img src="https://img.shields.io/badge/VER%20PROJETO-00AA66?style=for-the-badge&logo=github&logoColor=white" alt="Ver FutStats Manager Front"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/thiagobellato/trabalho-api-grupo6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagobellato&repo=trabalho-api-grupo6&theme=github_dark&hide_border=true" alt="Trabalho API - Grupo 6"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/thiagobellato/edu-sustenta-back">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagobellato&repo=edu-sustenta-back&theme=github_dark&hide_border=true" alt="Edu Sustenta"/>
+    <td colspan="2" width="100%" align="center" valign="top">
+      <h3>🤖 Chatbot</h3>
+      <p>Projeto de chatbot.</p>
+      <img src="https://img.shields.io/github/languages/top/thiagobellato/chatbot?style=flat-square&logo=github&label=Linguagem" alt="Linguagem principal"/>
+      <img src="https://img.shields.io/github/last-commit/thiagobellato/chatbot?style=flat-square&label=%C3%9Altimo%20commit" alt="Último commit"/>
+      <br/><br/>
+      <a href="https://github.com/thiagobellato/chatbot">
+        <img src="https://img.shields.io/badge/VER%20PROJETO-00AA66?style=for-the-badge&logo=github&logoColor=white" alt="Ver Chatbot"/>
       </a>
     </td>
   </tr>
@@ -111,17 +121,6 @@ Tenho interesse constante em aprimorar meus conhecimentos em arquitetura de soft
 <img src="https://img.shields.io/badge/Scrum-Metodologia%20%C3%81gil-6DB33F?style=for-the-badge" alt="Scrum"/>
 <img src="https://img.shields.io/badge/Trello-Gest%C3%A3o%20de%20Tarefas-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 <img src="https://img.shields.io/badge/Lucidchart-Modelagem%20de%20Sistemas-F08705?style=for-the-badge&logo=lucid&logoColor=white" alt="Lucidchart"/>
-
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thiagobellato&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobellato&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
 
 </div>
 
